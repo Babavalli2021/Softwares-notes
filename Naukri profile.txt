@@ -1,0 +1,7 @@
+Resume Headlines:
+
+Having 4.3 years of Experience of in IT Industry 4.2 years With Devops and cloud management as a Devops Engineer , Proficient in Linux , Ubuntu , Git , Github , Maven , Apache Tomcat , Jenkins , Ansible , Docker , Kubernetes basic Along With AWS Cloud.
+
+Profile summary:
+
+4.2 years of experience in Aws Devops . Worked on Planning strategy and Practical implementation of CI/CD Delivery Model , Which includes tools like Linux , Git , Github , maven , Jenkins , Ansible and Docker . Worked on Planning and implementation on setting up kubernetes cluster using EKS . Worked on Linux and Windows Environment . integration of Automated Build with Deployment Pipeline . currently installed Ansible Server and client pickup the Build from Jenkins Repository and Deploy in the Target Environments ( integration , QA and Production ) . Experienced in Maintaing Docker containers with kubernets to Automate the Docker container maintenance by using it and worked on REST API. Worked on Ansible and Ansible tower to automate repetitive tasks , to deploy critical applications quickly and proactively manage the changes. supported API development team in Creating Ansible Playbook Worked Aws Services Like Ec2 , Vpc , IAM , S3 Bucket , Cloud Watch and Elastic Load balancer.
